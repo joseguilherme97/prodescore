@@ -1,0 +1,14 @@
+.select-dark {
+  background-color: #0f172a;
+  color: #ffffff;
+  border: 1px solid #334155;
+  border-radius: 10px;
+  padding: 8px 12px;
+  min-width: 220px;
+  outline: none;
+}
+
+.select-dark option {
+  background-color: #0f172a;
+  color: #ffffff;
+}
